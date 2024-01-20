@@ -8,6 +8,7 @@ public class DeclaringVars {
         b = x;
         c = x;
 
+
         System.out.println(c);
 
     }
